@@ -96,4 +96,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - wxPython team for the excellent GUI framework
 - All open-source contributors whose libraries made this project possible
-
